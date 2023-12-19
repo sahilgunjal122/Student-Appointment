@@ -1,0 +1,5 @@
+step 1:
+    g++ -o appointment_system main.cpp 
+
+step 2:
+    ./appointment_system text_file1.txt text_file2.txt text_file3.txt
